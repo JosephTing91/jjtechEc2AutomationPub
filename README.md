@@ -1,1 +1,0 @@
-# jjtechEc2AutomationPub
